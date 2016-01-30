@@ -3,9 +3,9 @@ Group By Distance (AI Script)
 
 Adobe Illustrator script to group selected items by distance value. 
 
-> This is test version that I've found my archives and there is no guarantee that it's works perfectly. But go ahead and test it :)
-
 <a href="https://www.dropbox.com/s/r9270oxfrdu7tfn/GroupByDistance_Example_01.gif?raw=1" target="_blank">![Gif](https://www.dropbox.com/s/r9270oxfrdu7tfn/GroupByDistance_Example_01.gif?raw=1)</a>
+
+> This is test version that I've found my archives and there is no guarantee that it's works perfectly. But go ahead and test it :)
 
 ## Install
 
